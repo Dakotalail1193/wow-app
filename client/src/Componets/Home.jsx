@@ -8,7 +8,7 @@ function Home() {
         <div className='selection'>
           <Link to="/Horde" className="nav">
               <button className='horde-button'>
-                <img src="Assets/Horde_crest.png" className='crest'/>
+                <img src="/Assets/Horde_crest.png" className='crest'/>
               </button>
               <p className="horde-select">Horde</p>  
           </Link>
