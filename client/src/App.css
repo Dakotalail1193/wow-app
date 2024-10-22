@@ -20,6 +20,11 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
+      margin-top: 10%;
+      background-image: url('Assets/main-background.png');
+      background-repeat: no-repeat;
+      background-position: center;
+
   }
   
   .horde-crest{
@@ -116,6 +121,7 @@
 
   .intro{
     text-align: center;
+    margin-top: 20px;
   }
 
   .main-footer{

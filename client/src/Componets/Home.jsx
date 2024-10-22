@@ -13,9 +13,7 @@ function Home() {
               <p className="horde-select">Horde</p>  
           </Link>
           <Link to="/">
-            <button >
-          <img className='main-button' src="src/Assets/main-background.png"/>
-          </button>
+            
           </Link>        
           <Link to="/Alliance" className="nav">
               <button className='alliance-button'>
@@ -25,7 +23,7 @@ function Home() {
           </Link>
         </div>
         <div className="intro">
-            <h1>Welcome to my World of Warcraft information App! Select Horde or Alliance to learn more!</h1>
+            <h1>Welcome to my World of Warcraft Information App! Select Horde or Alliance to learn more!</h1>
         </div>
 
         <footer className="main-footer">
