@@ -25,10 +25,19 @@
   .horde-crest{
       width: 300px;
       height: 350px;
+      background-image: url('Assets/Horde_Crest.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100%;
   }
   .alliance-crest{
     width: 300px;
     height: 350px;
+    background-image: url('Assets/Alliance_Crest.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
 }
 
   .nav{

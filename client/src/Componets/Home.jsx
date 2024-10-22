@@ -8,7 +8,7 @@ function Home() {
         <div className='selection'>
           <Link to="/Horde" className="nav">
               <button className='horde-button'>
-                <img src="src/Assets/Horde_Crest.png" className='horde-crest'/>
+                <div className='horde-crest'/>
               </button>
               <p className="horde-select">Horde</p>  
           </Link>
@@ -19,7 +19,7 @@ function Home() {
           </Link>        
           <Link to="/Alliance" className="nav">
               <button className='alliance-button'>
-                <img src="src/Assets/Alliance_Crest.png" className='alliance-crest'/>                
+                <div className='alliance-crest'/>                
               </button> 
               <p className="alliance-select">Alliance</p> 
           </Link>
