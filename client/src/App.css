@@ -22,10 +22,14 @@
       align-items: center;
   }
   
-  .crest{
+  .horde-crest{
       width: 300px;
       height: 350px;
   }
+  .alliance-crest{
+    width: 300px;
+    height: 350px;
+}
 
   .nav{
     text-decoration: none;
