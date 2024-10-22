@@ -8,18 +8,18 @@ function Home() {
         <div className='selection'>
           <Link to="/Horde" className="nav">
               <button className='horde-button'>
-                <img src="../Assets/Horde_crest.png" className='crest'/>
+                <img src="../src/Assets/Horde_crest.png" className='crest'/>
               </button>
               <p className="horde-select">Horde</p>  
           </Link>
           <Link to="/">
             <button >
-          <img className='main-button' src="/src/Assets/main-background.png"/>
+          <img className='main-button' src="src/Assets/main-background.png"/>
           </button>
           </Link>        
           <Link to="/Alliance" className="nav">
               <button className='alliance-button'>
-                <img src="/src/Assets/Alliance_Crest.png" className='crest'/>                
+                <img src="Wow-info-app/client/src/Assets/Alliance_Crest.png" className='crest'/>                
               </button> 
               <p className="alliance-select">Alliance</p> 
           </Link>
