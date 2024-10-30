@@ -14,7 +14,7 @@ function Undead(){
                 <h1>
                     Free of the Lich King's grasp, the Forsaken seek to overthrow his rule. Led by Lady Sylvanas, they hunger for vengeance against the Scourge.
                     <br/><br/> 
-                    Humans, too have bcome the enemy, relentless in their driveto purge all Undead from the land.
+                    Humans, too have become the enemy, relentless in their drive to purge all Undead from the land.
                     <br/><br/> 
                     The Forsaken care little, even for their allies; to them, the Horde is merely a tool that may further their dark schemes.
 

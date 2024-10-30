@@ -16,7 +16,7 @@ function Gnome(){
                     <br/><br/>
                     Indeed, their subterranean kingdom, Gnomeragn was once a marvel of steam-driven technology. Even so, due to a massive Trogg invasion, the city was lost.
                     <br/><br/>
-                    Now its builders are vagabonds in the Dwarven lnds, aiding their allies as best they can.
+                    Now its builders are vagabonds in the Dwarven lands, aiding their allies as best they can.
                 </h1>
             </div>
             <div className="class-list">

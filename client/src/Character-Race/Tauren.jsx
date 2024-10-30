@@ -12,9 +12,9 @@ function Tauren(){
             <div className="hl"/>
             <div className="bio">
                 <h1>
-                    Always the Tauren strive to preserve the balance of nature and heed the willd of their Goddess, the Earth Mother.
+                    Always the Tauren strive to preserve the balance of nature and heed the will of their Goddess, the Earth Mother.
                     <br/><br/>
-                    Recently attacked by murderours Centaur, the Tauren would have been wiped, save for achance encounter with the Orcs, who helped defeat the interlopers.
+                    Recently attacked by murderous Centaur, the Tauren would have been wiped, save for a chance encounter with the Orcs, who helped defeat the interlopers.
                     <br/><br/>
                     To honor this blood-debt, the Tauren joined the Horde, solidifying the two races' friendship.
                 </h1>

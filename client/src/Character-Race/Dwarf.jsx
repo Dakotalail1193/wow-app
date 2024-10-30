@@ -14,8 +14,8 @@ function Dwarf(){
                 <h1>
                     In ages past the dwarves cared only for riches taken from the earth's depths. Then records surfaced of a god-like race said to have given the dwarves life...and an enchanted birthright. 
                    <br/><br/>
-                    Driven to learn more, the Dwarves devoted themselves to the pursuitof lost artifacts and ancient knowledge. 
-                    Today Dwarven archaeologists are scatterd throughout the globe.
+                    Driven to learn more, the Dwarves devoted themselves to the pursuit of lost artifacts and ancient knowledge. 
+                    Today Dwarven archaeologists are scattered throughout the globe.
                 </h1>
             </div>
             <div className="class-list">

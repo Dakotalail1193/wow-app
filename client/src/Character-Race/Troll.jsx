@@ -12,11 +12,11 @@ function Troll(){
         <div className="hl"/>
             <div className="bio">
                 <h1>
-                    Once at home in the jungles of Strangletorn Vale, the firece trolls of the Darkspear tribe were pushed out by warring factions.
+                    Once at home in the jungles of Strangletorn Vale, the fierce trolls of the Darkspear tribe were pushed out by warring factions.
                     <br/>                  
-                    Eventually the trolls befriended the Orcish Horde, and Thrall, the young Orc Warchief, convinced the Trolls to travel with him to Kalimdor.
+                    Eventually the trolls befriended the Orcish Horde, and Thrall, the young Orc War chief, convinced the Trolls to travel with him to Kalimdor.
                     <br/>
-                    Though they cling to thier shadowy heritage, the Darkspear Trolls hold a place of honor in the Horde.
+                    Though they cling to their shadowy heritage, the Darkspear Trolls hold a place of honor in the Horde.
                 </h1>
             </div>
             <div className="class-list">
